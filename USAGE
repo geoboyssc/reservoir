@@ -17,3 +17,7 @@ git restore <filename>
 
 git restore --staged <filename>
 
+git pull
+
+git push
+
