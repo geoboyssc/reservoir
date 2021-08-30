@@ -1,0 +1,19 @@
+
+git add <filename>
+
+git commit -m "xxx"
+
+git diff
+
+git log
+
+git reflog
+
+git reset --hard HEAD^(commit id)
+
+git status
+
+git restore <filename>
+
+git restore --staged <filename>
+
